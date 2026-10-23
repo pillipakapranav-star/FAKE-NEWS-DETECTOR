@@ -1,5 +1,10 @@
 # Fake News Detection & Text Credibility Analyzer
 
+[![Deploy to Render](https://img.shields.io/badge/Render-Live%20Demo-46E3B7?style=flat&logo=render&logoColor=white)](https://fake-news-detector-ead3.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/pillipakapranav-star/FAKE-NEWS-DETECTOR)
+
+🌐 **Live Application URL**: [https://fake-news-detector-ead3.onrender.com](https://fake-news-detector-ead3.onrender.com)
+
 An accessible, responsive, modern web application for analyzing news headlines and articles for **linguistic credibility, sensationalism, emotional charge, and transparent source attribution**.
 
 Built with a modular, pluggable architecture conforming to `BaseAnalyzer`, allowing rule-based statistical NLP, simulated deep learning transformers, or live production machine learning models (e.g. Hugging Face Inference API, ONNX, or custom REST servers) to be swapped in effortlessly.
