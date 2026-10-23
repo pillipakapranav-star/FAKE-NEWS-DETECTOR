@@ -1,0 +1,21 @@
+{
+  "name": "fake-news-detection",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A responsive web application for linguistic and stylistic news credibility analysis with pluggable NLP architecture.",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test/analyzer.test.js"
+  },
+  "keywords": [
+    "fake-news-detection",
+    "nlp",
+    "linguistic-analysis",
+    "fact-checking",
+    "news-credibility"
+  ],
+  "author": "Antigravity Pair Programmer",
+  "license": "MIT"
+}
